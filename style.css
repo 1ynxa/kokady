@@ -243,7 +243,7 @@ a:hover {
   height: 100vh;
   min-height: 700px;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("img/グループ\ 5.jpg") no-repeat center center/cover;
+    url("img/グループ5.jpg") no-repeat center center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
